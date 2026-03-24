@@ -40,7 +40,7 @@ int main()
 
     if (ServerScoket < 0)
     {
-        printf("Unable to create socket\n");
+        printf("Unable to create socket.\n");
 
         return -1;
     }

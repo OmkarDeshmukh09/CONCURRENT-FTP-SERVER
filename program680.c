@@ -8,5 +8,5 @@ int main()
 
     printf("PID of the runiing process : %d\n",getppid);
 
-    return 0 ;
+    return 0;
 }

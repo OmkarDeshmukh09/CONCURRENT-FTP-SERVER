@@ -5,6 +5,7 @@ int main(int argc, char *argv[])
     printf("Number of command line arguments are :%d\n",argc);
 
     printf(" Executable name : %s\n",argv[0]);
+    printf(" Executable name : %s\n",argv[0]);
     printf(" IP Address : %s\n",argv[1]);
     printf(" Port Number : %s\n",argv[2]);
     printf(" Targated file name : %s\n",argv[3]);

@@ -130,6 +130,7 @@ int main(int argc, char *argv[])
         if (ClientSocket < 0)
         {
             printf("Unable to accept client  request \n");
+            printf("Unable to accept client  request \n");
 
             continue;   // Used for while 
         }
